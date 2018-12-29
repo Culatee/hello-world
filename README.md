@@ -1,2 +1,3 @@
 # hello-world
-About Blockchain
+Am Emmanuel, a web devloper.
+A scientist
